@@ -137,10 +137,11 @@ int main() {
 		/* Показ содержимого вектора v3 */
         v3.show();
     }
+	
     catch (VectorDebug& vre)  {
 		vre.ErrMsg();
 	}
-
+	
 	system("pause >nul");
 }
 
