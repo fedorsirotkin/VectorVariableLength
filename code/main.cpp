@@ -1,6 +1,7 @@
 /* * * * * * * * * * *
  * * * main.cpp  * * *
  * * * * * * * * * * */ 
+ 
 #include <iostream>
 #include <string>
 #include <cstdlib>
@@ -142,4 +143,5 @@ int main() {
 
 	system("pause >nul");
 }
+
 /* * * * * * * * * * */ 

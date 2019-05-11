@@ -1,6 +1,7 @@
 /* * * * * * * * * * * * * *
  * * * vectorDebug.hpp * * *
  * * * * * * * * * * * * * */ 
+ 
 #ifndef _VECTOR_DEBUG_
 #define _VECTOR_DEBUG_
 	#include <iostream>
@@ -44,4 +45,5 @@
 				}
 	};
 #endif /* _VECTOR_DEBUG_ */
+
 /* * * * * * * * * * * * */ 
