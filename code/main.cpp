@@ -19,6 +19,7 @@ template <class T> void reverseVecor( Vect <T> v ) {
 }
 
 int main() {
+	
 	system("chcp 1251 >NULL");
 
 	try {
