@@ -4,6 +4,7 @@
  
 #ifndef _VECTOR_DEBUG_
 #define _VECTOR_DEBUG_
+
 	#include <iostream>
 	// #define DEBUG
 	class VectorDebug {

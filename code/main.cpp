@@ -140,10 +140,11 @@ int main() {
     }
 	
     catch (VectorDebug& vre)  {
-		vre.ErrMsg();
-	}
+        vre.ErrMsg();
+    }
+    
+    system("pause >nul");
 	
-	system("pause >nul");
 }
 
 /* * * * * * * * * * */ 
